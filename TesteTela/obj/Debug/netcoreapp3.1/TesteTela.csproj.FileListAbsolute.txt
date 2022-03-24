@@ -1,0 +1,13 @@
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\bin\Debug\netcoreapp3.1\TesteTela.exe
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\bin\Debug\netcoreapp3.1\TesteTela.deps.json
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\bin\Debug\netcoreapp3.1\TesteTela.runtimeconfig.json
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\bin\Debug\netcoreapp3.1\TesteTela.runtimeconfig.dev.json
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\bin\Debug\netcoreapp3.1\TesteTela.dll
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\bin\Debug\netcoreapp3.1\TesteTela.pdb
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.csprojAssemblyReference.cache
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.AssemblyInfoInputs.cache
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.AssemblyInfo.cs
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.csproj.CoreCompileInputs.cache
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.dll
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.pdb
+C:\Users\paty_\OneDrive - SENAC-SC\3º Semestre\1 - Programação para Desktop - Jackson\TesteTela\obj\Debug\netcoreapp3.1\TesteTela.genruntimeconfig.cache
